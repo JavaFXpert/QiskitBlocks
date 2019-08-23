@@ -1,0 +1,131 @@
+# Mobs Redo translation.
+# Copyright (C) 2017 TenPlus1
+# This file is distributed under the same license as the mobs package.
+# Wuzzy <Wuzzy@mail.ru>, 2017
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mobs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-02 16:48+0200\n"
+"PO-Revision-Date: 2017-07-02 14:27+0200\n"
+"Last-Translator: Wuzzy <almikes@aol.com>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: api.lua
+msgid "** Peaceful Mode Active - No Monsters Will Spawn"
+msgstr ""
+
+#: api.lua
+msgid "Mob has been protected!"
+msgstr "Kreatur wurde geschützt!"
+
+#: api.lua
+msgid "@1 (Tamed)"
+msgstr "@1 (Gezähmt)"
+
+#: api.lua
+msgid "Not tamed!"
+msgstr "Nicht gezähmt!"
+
+#: api.lua
+msgid "@1 is owner!"
+msgstr "@1 ist der Besitzer!"
+
+#: api.lua
+msgid "Missed!"
+msgstr "Daneben!"
+
+#: api.lua
+msgid "Already protected!"
+msgstr "Bereits geschützt!"
+
+#: api.lua
+msgid "@1 at full health (@2)"
+msgstr "@1 bei voller Gesundheit (@2)"
+
+#: api.lua
+msgid "@1 has been tamed!"
+msgstr "@1 wurde gezähmt!"
+
+#: api.lua
+msgid "Enter name:"
+msgstr "Namen eingeben:"
+
+#: api.lua
+msgid "Rename"
+msgstr "Umbenennen"
+
+#: crafts.lua
+msgid "Name Tag"
+msgstr "Namensschild"
+
+#: crafts.lua
+msgid "Leather"
+msgstr "Leder"
+
+#: crafts.lua
+msgid "Raw Meat"
+msgstr "Rohes Fleisch"
+
+#: crafts.lua
+msgid "Meat"
+msgstr "Fleisch"
+
+#: crafts.lua
+msgid "Lasso (right-click animal to put in inventory)"
+msgstr "Lasso (Rechtsklick auf Tier, um es zu nehmen)"
+
+#: crafts.lua
+msgid "Net (right-click animal to put in inventory)"
+msgstr "Netz (Rechtsklick auf Tier, um es zu nehmen)"
+
+#: crafts.lua
+msgid "Steel Shears (right-click to shear)"
+msgstr "Stahlschere (Rechtsklick zum Scheren)"
+
+#: crafts.lua
+msgid "Mob Protection Rune"
+msgstr "Kreaturschutzrune"
+
+#: crafts.lua
+msgid "Saddle"
+msgstr "Sattel"
+
+#: crafts.lua
+msgid "Mob Fence"
+msgstr "Kreaturen Zaun"
+
+#: spawner.lua
+msgid "Mob Spawner"
+msgstr "Kreaturenspawner"
+
+#: spawner.lua
+msgid "Mob MinLight MaxLight Amount PlayerDist"
+msgstr "Kreatur MinLicht MaxLicht Menge SpielerEntfng"
+
+#: spawner.lua
+msgid "Spawner Not Active (enter settings)"
+msgstr "Nicht aktiv (Einstellungen eingeben)"
+
+#: spawner.lua
+msgid "Spawner Active (@1)"
+msgstr "Spawner aktiv (@1)"
+
+#: spawner.lua
+msgid "Mob Spawner settings failed!"
+msgstr "Kreaturenspawner-Einstellungen gescheitert!"
+
+#: spawner.lua
+msgid ""
+"Syntax: “name min_light[0-14] max_light[0-14] max_mobs_in_area[0 to disable] "
+"distance[1-20] y_offset[-10 to 10]”"
+msgstr ""
+"Syntax: „name min_licht[0-14] max_licht[0-14] max_mobs_im_gebiet[0 zum "
+"Deaktivieren] distanz[1-20] y_versatz[-10 bis 10]“"

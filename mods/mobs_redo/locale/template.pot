@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-02 16:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api.lua
+msgid "** Peaceful Mode Active - No Monsters Will Spawn"
+msgstr ""
+
+#: api.lua
+msgid "Mob has been protected!"
+msgstr ""
+
+#: api.lua
+msgid "@1 (Tamed)"
+msgstr ""
+
+#: api.lua
+msgid "Not tamed!"
+msgstr ""
+
+#: api.lua
+msgid "@1 is owner!"
+msgstr ""
+
+#: api.lua
+msgid "Missed!"
+msgstr ""
+
+#: api.lua
+msgid "Already protected!"
+msgstr ""
+
+#: api.lua
+msgid "@1 at full health (@2)"
+msgstr ""
+
+#: api.lua
+msgid "@1 has been tamed!"
+msgstr ""
+
+#: api.lua
+msgid "Enter name:"
+msgstr ""
+
+#: api.lua
+msgid "Rename"
+msgstr ""
+
+#: crafts.lua
+msgid "Name Tag"
+msgstr ""
+
+#: crafts.lua
+msgid "Leather"
+msgstr ""
+
+#: crafts.lua
+msgid "Raw Meat"
+msgstr ""
+
+#: crafts.lua
+msgid "Meat"
+msgstr ""
+
+#: crafts.lua
+msgid "Lasso (right-click animal to put in inventory)"
+msgstr ""
+
+#: crafts.lua
+msgid "Net (right-click animal to put in inventory)"
+msgstr ""
+
+#: crafts.lua
+msgid "Steel Shears (right-click to shear)"
+msgstr ""
+
+#: crafts.lua
+msgid "Mob Protection Rune"
+msgstr ""
+
+#: crafts.lua
+msgid "Saddle"
+msgstr ""
+
+#: crafts.lua
+msgid "Mob Fence"
+msgstr ""
+
+#: spawner.lua
+msgid "Mob Spawner"
+msgstr ""
+
+#: spawner.lua
+msgid "Mob MinLight MaxLight Amount PlayerDist"
+msgstr ""
+
+#: spawner.lua
+msgid "Spawner Not Active (enter settings)"
+msgstr ""
+
+#: spawner.lua
+msgid "Spawner Active (@1)"
+msgstr ""
+
+#: spawner.lua
+msgid "Mob Spawner settings failed!"
+msgstr ""
+
+#: spawner.lua
+msgid ""
+"Syntax: “name min_light[0-14] max_light[0-14] max_mobs_in_area[0 to disable] "
+"distance[1-20] y_offset[-10 to 10]”"
+msgstr ""

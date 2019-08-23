@@ -1,0 +1,13 @@
+#Name				Time	Gain
+an-open-gate    4:13    0.21
+qiskit-suite   10:26    0.21
+superposition   2:47    0.21
+SDP				0:17	0.21
+
+#qiskit-suite    0:35    0.21
+#an-open-gate    0:30    0.21
+#superposition   0:33    0.10
+#SDP				2:53	0.50
+
+
+

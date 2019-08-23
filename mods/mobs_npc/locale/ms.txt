@@ -1,0 +1,21 @@
+# Malay translations of mobs_npc mod
+# using template from 2016/June/10, translated on 2018/February/05
+
+#init.lua
+[MOD] Mobs Redo 'NPCs' loaded = [MODS] Mobs Redo 'NPCs' telah dimuatkan
+
+#npc.lua
+NPC dropped you an item for gold! = NPC jatuhkan item untuk anda apabila dibayar dengan emas!
+NPC stands still. = NPC berdiri diam.
+NPC will follow you. = NPC akan mengikut anda.
+Npc = Npc
+
+#trader.lua
+Trader @1 = Pedagang @1
+[NPC] <Trader @1 > Hello, @2, have a look at my wares. = [NPC] <Pedagang @1 > Helo @2, lihatlah barangan saya.
+Trader @1's stock: = Stok pedagang @1:
+Selection = Pilihan
+Price = Harga
+Payment = Bayaran
+Bought items = Item dibeli
+Trader = Pedagang

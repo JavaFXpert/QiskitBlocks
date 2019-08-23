@@ -1,0 +1,39 @@
+# Türkçe çeviri by Admicos
+# Turkish translation by Admicos
+
+# Son düzenleme: 26 Nisan 2017
+# Last edit: 26 April 2017
+
+
+#dirtmonster.lua
+Dirt Monster = Toprak Canavarı
+
+#dungeonmaster.lua
+Dungeon Master = Zindan başı
+
+#init.lua
+[MOD] Mobs Redo 'Monsters' loaded = [MOD] Mobs Redo 'Canavarlar' yüklendi
+
+#lava_flan.lua
+Lava Flan = Lav Flan
+Lava orb = Lav küre
+Lava Pickaxe = Lav kazması
+
+#mese_monster.lua
+Mese Monster = Mese Canavarı
+
+#oerkki.lua
+Oerkki = Oerkki
+
+#sandmonster.lua
+Sand Monster = Kum Canavarı
+
+#spider.lua
+Spider = Örümcek
+Cobweb = Örümcek ağı
+
+#stonemonster.lua
+Stone Monster = Taş Canavarı
+
+#treemonster.lua
+Tree Monster = Ağaç Canavarı

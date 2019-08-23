@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-05 23:40+0800\n"
+"PO-Revision-Date: 2018-02-05 23:51+0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: MuhdNurHidayat (MNH48) <mnh48mail@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ms\n"
+
+#: api.lua
+msgid "** Peaceful Mode Active - No Monsters Will Spawn"
+msgstr "** Mod Aman Diaktifkan - Tiada Raksasa Akan Muncul"
+
+#: api.lua
+msgid "Mob has been protected!"
+msgstr "Mob telah pun dilindungi!"
+
+#: api.lua
+msgid "@1 (Tamed)"
+msgstr "@1 (Jinak)"
+
+#: api.lua
+msgid "Not tamed!"
+msgstr "Belum dijinakkan!"
+
+#: api.lua
+msgid "@1 is owner!"
+msgstr "Ini hak milik @1!"
+
+#: api.lua
+msgid "Missed!"
+msgstr "Terlepas!"
+
+#: api.lua
+msgid "Already protected!"
+msgstr "Telah dilindungi!"
+
+#: api.lua
+msgid "@1 at full health (@2)"
+msgstr "Mata kesihatan @1 telah penuh (@2)"
+
+#: api.lua
+msgid "@1 has been tamed!"
+msgstr "@1 telah dijinakkan!"
+
+#: api.lua
+msgid "Enter name:"
+msgstr "Masukkan nama:"
+
+#: api.lua
+msgid "Rename"
+msgstr "Namakan semula"
+
+#: crafts.lua
+msgid "Name Tag"
+msgstr "Tanda Nama"
+
+#: crafts.lua
+msgid "Leather"
+msgstr "Kulit"
+
+#: crafts.lua
+msgid "Raw Meat"
+msgstr "Daging Mentah"
+
+#: crafts.lua
+msgid "Meat"
+msgstr "Daging Bakar"
+
+#: crafts.lua
+msgid "Lasso (right-click animal to put in inventory)"
+msgstr "Tanjul (klik-kanan haiwan untuk masukkan ke inventori)"
+
+#: crafts.lua
+msgid "Net (right-click animal to put in inventory)"
+msgstr "Jaring (klik-kanan haiwan untuk masukkan ke inventori)"
+
+#: crafts.lua
+msgid "Steel Shears (right-click to shear)"
+msgstr "Ketam Keluli (klik-kanan untuk mengetam bulu biri-biri)"
+
+#: crafts.lua
+msgid "Mob Protection Rune"
+msgstr "Rune Perlindungan Mob"
+
+#: crafts.lua
+msgid "Saddle"
+msgstr "Pelana"
+
+#: crafts.lua
+msgid "Mob Fence"
+msgstr "Pagar Mob"
+
+#: spawner.lua
+msgid "Mob Spawner"
+msgstr "Pewujud Mob"
+
+#: spawner.lua
+msgid "Mob MinLight MaxLight Amount PlayerDist"
+msgstr "Mob CahayaMin CahayaMax Amaun JarakPemain"
+
+#: spawner.lua
+msgid "Spawner Not Active (enter settings)"
+msgstr "Pewujud Mob Tidak Aktif (masukkan tetapan)"
+
+#: spawner.lua
+msgid "Spawner Active (@1)"
+msgstr "Pewujud Mob Aktif (@1)"
+
+#: spawner.lua
+msgid "Mob Spawner settings failed!"
+msgstr "Penetapan Pewujud Mob gagal!"
+
+#: spawner.lua
+msgid ""
+"Syntax: “name min_light[0-14] max_light[0-14] max_mobs_in_area[0 to disable] "
+"distance[1-20] y_offset[-10 to 10]”"
+msgstr ""
+"Sintaks: \"nama cahaya_minimum[0-14] cahaya_maksimum[0-14] "
+"amaun_mob_maksimum[0 untuk lumpuhkan] jarak[1-20] ketinggian[-10 hingga 10]\""

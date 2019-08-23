@@ -1,0 +1,129 @@
+# Russian translation for the mobs_redo mod.
+# Copyright (C) 2018 TenPlus1
+# This file is distributed under the same license as the mobs_redo package.
+# Oleg720 <olegsiriak@yandex.ru>, 2017.
+# CodeXP <codexp@gmx.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-13 15:47+0200\n"
+"PO-Revision-Date: 2018-03-23 22:22+0100\n"
+"Last-Translator: CodeXP <codexp@gmx.net>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api.lua
+msgid "** Peaceful Mode Active - No Monsters Will Spawn"
+msgstr "** Мирный модус активирован - монстры не спаунятся"
+
+#: api.lua
+msgid "Mob has been protected!"
+msgstr "Моб защищен!"
+
+#: api.lua
+msgid "@1 (Tamed)"
+msgstr "@1 (Прирученный)"
+
+#: api.lua
+msgid "Not tamed!"
+msgstr "Не прирученный"
+
+#: api.lua
+msgid "@1 is owner!"
+msgstr "@1 владелец"
+
+#: api.lua
+msgid "Missed!"
+msgstr "Промазал!"
+
+#: api.lua
+msgid "Already protected!"
+msgstr "Уже защищен!"
+
+#: api.lua
+msgid "@1 at full health (@2)"
+msgstr "@1 при полном здоровье (@2)"
+
+#: api.lua
+msgid "@1 has been tamed!"
+msgstr "@1 приручен"
+
+#: api.lua
+msgid "Enter name:"
+msgstr "Введите имя:"
+
+#: api.lua
+msgid "Rename"
+msgstr "Переименовать"
+
+#: crafts.lua
+msgid "Name Tag"
+msgstr "Новый тэг"
+
+#: crafts.lua
+msgid "Leather"
+msgstr "Кожа"
+
+#: crafts.lua
+msgid "Raw Meat"
+msgstr "Сырое мясо"
+
+#: crafts.lua
+msgid "Meat"
+msgstr "Мясо"
+
+#: crafts.lua
+msgid "Lasso (right-click animal to put in inventory)"
+msgstr "Лассо (Правый клик - положить животное в инвентарь)"
+
+#: crafts.lua
+msgid "Net (right-click animal to put in inventory)"
+msgstr "Сеть (Правый клик - положить животное в инвентарь)"
+
+#: crafts.lua
+msgid "Steel Shears (right-click to shear)"
+msgstr "Ножницы (Правый клик - подстричь)"
+
+#: crafts.lua
+msgid "Mob Protection Rune"
+msgstr "Защитная руна мобов"
+
+#: crafts.lua
+msgid "Saddle"
+msgstr "Седло"
+
+#: crafts.lua
+msgid "Mob Fence"
+msgstr "Забор от мобов"
+
+#: spawner.lua
+msgid "Mob Spawner"
+msgstr "Спаунер моба"
+
+#: spawner.lua
+msgid "Mob MinLight MaxLight Amount PlayerDist"
+msgstr ""
+
+#: spawner.lua
+msgid "Spawner Not Active (enter settings)"
+msgstr "Спаунер не активен (введите настройки)"
+
+#: spawner.lua
+msgid "Spawner Active (@1)"
+msgstr "Активные спаунер (@1)"
+
+#: spawner.lua
+msgid "Mob Spawner settings failed!"
+msgstr "Настройки спаунера моба провалились"
+
+#: spawner.lua
+msgid ""
+"Syntax: “name min_light[0-14] max_light[0-14] max_mobs_in_area[0 to disable] "
+"distance[1-20] y_offset[-10 to 10]”"
+msgstr ""

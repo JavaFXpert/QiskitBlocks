@@ -1,0 +1,29 @@
+#    If false then mobs no longer spawn in world without spawner or spawn egg
+mobs_spawn (Spawn Mobs) bool true
+
+#    If enabled then monsters no longer spawn in world
+only_peaceful_mobs (Only spawn peaceful Mobs) bool false
+
+#   If enabled then punching mobs no longer shows blood effects
+mobs_disable_blood (Disable Mob blood) bool false
+
+#    If disabled then Mobs no longer destroy world blocks
+mobs_griefing (Griefing Mobs) bool true
+
+#    If false then Mobs no longer spawn inside player protected areas
+mobs_spawn_protected (Spawn Mobs in protected areas) bool true
+
+#    If true Mobs will be removed once a map chunk is out of view
+remove_far_mobs (Remove far Mobs) bool true
+
+#    Sets Mob difficulty level by multiplying punch damage
+mob_difficulty (Mob difficulty) float 1.0
+
+#    If disabled health status no longer appears above Mob when punched
+mob_show_health (Show Mob health) bool true
+
+#    Contains a value used to multiply Mob spawn values
+mob_chance_multiplier (Mob chance multiplier) float 1.0
+
+#    When false Mob no longer drop items when killed
+mobs_drop_items (Mob drops) bool true

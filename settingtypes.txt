@@ -1,0 +1,4 @@
+# This file contains settings of qiskitblocks_game that can be changed in
+# minetest.conf
+
+#    TODO: Supply settings

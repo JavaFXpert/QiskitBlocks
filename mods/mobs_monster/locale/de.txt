@@ -1,0 +1,37 @@
+# German Translation for mobs_monster mod
+# Deutsche Übersetzung der mobs_monster Mod
+# last update: 2016/June/10
+# Author: Xanthin
+
+#dirtmonster.lua
+Dirt Monster = Erdmonster
+
+#dungeonmaster.lua
+Dungeon Master = Kerkermeister
+
+#init.lua
+[MOD] Mobs Redo 'Monsters' loaded = [MOD] Mobs Redo 'Monsters' geladen
+
+#lava_flan.lua
+Lava Flan = Lavaflan
+Lava orb = Lavakugel
+Lava Pickaxe = Lavaspitzhacke
+
+#mese_monster.lua
+Mese Monster = Mesemonster
+
+#oerkki.lua
+Oerkki = Oerkki
+
+#sandmonster.lua
+Sand Monster = Sandmonster
+
+#spider.lua
+Spider = Spinne
+Cobweb = Spinnennetz
+
+#stonemonster.lua
+Stone Monster = Steinmonster
+
+#treemonster.lua
+Tree Monster = Baummonster

@@ -1,0 +1,38 @@
+# ITALIAN LOCALE FILE FOR THE MOBS MONSTER MODULE
+# Copyright (c) 2014 Krupnov Pavel and 2016 TenPlus1
+# This file is distributed under the same license as the MOBS MONSTER package.
+# Hamlet <h4mlet@riseup.net>, 2017.
+#
+
+#dirtmonster.lua
+Dirt Monster = Mostro di terra
+
+#dungeonmaster.lua
+Dungeon Master = Padrone delle segrete
+
+#init.lua
+[MOD] Mobs Redo 'Monsters' loaded = [MOD] Mobs Redo 'Monsters' caricato
+
+#lava_flan.lua
+Lava Flan = Sformato di lava
+Lava orb = Sfera di lava
+Lava Pickaxe = Piccone di lava
+
+#mese_monster.lua
+Mese Monster = Mostro di mese
+
+#oerkki.lua
+Oerkki = Oerkki
+
+#sandmonster.lua
+Sand Monster = Mostro di sabbia
+
+#spider.lua
+Spider = Ragno
+Cobweb = Ragnatela
+
+#stonemonster.lua
+Stone Monster = Mostro di pietra
+
+#treemonster.lua
+Tree Monster = Albero mostro

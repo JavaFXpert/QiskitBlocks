@@ -1,0 +1,35 @@
+# Malay translations of mobs_monster mod
+# using template from 2016/June/10, translated on 2018/February/05
+
+#dirtmonster.lua
+Dirt Monster = Raksasa Tanah
+
+#dungeonmaster.lua
+Dungeon Master = Penjaga Kurungan Bawah Tanah
+
+#init.lua
+[MOD] Mobs Redo 'Monsters' loaded = [MODS] Mobs Redo 'Monsters' telah dimuatkan
+
+#lava_flan.lua
+Lava Flan = Raksasa Lava
+Lava orb = Bola Lava
+Lava Pickaxe = Beliung Lava
+
+#mese_monster.lua
+Mese Monster = Raksasa Mese
+
+#oerkki.lua
+Oerkki = Oerkki
+
+#sandmonster.lua
+Sand Monster = Raksasa Pasir
+
+#spider.lua
+Spider = Labah-labah
+Cobweb = Sarang Labah-labah
+
+#stonemonster.lua
+Stone Monster = Raksasa Batu
+
+#treemonster.lua
+Tree Monster = Raksasa Pokok

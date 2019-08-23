@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-29 09:13+0200\n"
+"PO-Revision-Date: 2017-07-29 09:20+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: fat115 <fat115@framasoft.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: api.lua
+msgid "** Peaceful Mode Active - No Monsters Will Spawn"
+msgstr "** Mode pacifique activé - Aucun monstre ne sera généré"
+
+#: api.lua
+msgid "Mob has been protected!"
+msgstr "L'animal a été protégé !"
+
+#: api.lua
+msgid "@1 (Tamed)"
+msgstr "@1 (apprivoisé)"
+
+#: api.lua
+msgid "Not tamed!"
+msgstr "Non-apprivoisé !"
+
+#: api.lua
+msgid "@1 is owner!"
+msgstr "Appartient à @1 !"
+
+#: api.lua
+msgid "Missed!"
+msgstr "Raté !"
+
+#: api.lua
+msgid "Already protected!"
+msgstr "Déjà protégé !"
+
+#: api.lua
+msgid "@1 at full health (@2)"
+msgstr "@1 est en pleine forme (@2) "
+
+#: api.lua
+msgid "@1 has been tamed!"
+msgstr "@1 a été apprivoisé ! "
+
+#: api.lua
+msgid "Enter name:"
+msgstr "Saisissez un nom :"
+
+#: api.lua
+msgid "Rename"
+msgstr "Renommer"
+
+#: crafts.lua
+msgid "Name Tag"
+msgstr "Étiquette pour collier"
+
+#: crafts.lua
+msgid "Leather"
+msgstr "Cuir"
+
+#: crafts.lua
+msgid "Raw Meat"
+msgstr "Viande crue"
+
+#: crafts.lua
+msgid "Meat"
+msgstr "Viande"
+
+#: crafts.lua
+msgid "Lasso (right-click animal to put in inventory)"
+msgstr "Lasso (clic droit sur l'animal pour le mettre dans l'inventaire)"
+
+#: crafts.lua
+msgid "Net (right-click animal to put in inventory)"
+msgstr "Filet (clic droit sur l'animal pour le mettre dans l'inventaire)"
+
+#: crafts.lua
+msgid "Steel Shears (right-click to shear)"
+msgstr "Ciseaux à laine (clic droit pour tondre)"
+
+#: crafts.lua
+msgid "Mob Protection Rune"
+msgstr "Rune de protection des animaux"
+
+#: crafts.lua
+msgid "Saddle"
+msgstr "Selle"
+
+#: crafts.lua
+msgid "Mob Fence"
+msgstr "Clôture à animaux"
+
+#: spawner.lua
+msgid "Mob Spawner"
+msgstr "Générateur de mob"
+
+#: spawner.lua
+msgid "Mob MinLight MaxLight Amount PlayerDist"
+msgstr "Mob MinLumière MaxLumière Quantité DistanceJoueur"
+
+#: spawner.lua
+msgid "Spawner Not Active (enter settings)"
+msgstr "Générateur non actif (entrez les paramètres)"
+
+#: spawner.lua
+msgid "Spawner Active (@1)"
+msgstr "Générateur actif (@1)"
+
+#: spawner.lua
+msgid "Mob Spawner settings failed!"
+msgstr "Echec des paramètres du générateur"
+
+#: spawner.lua
+msgid ""
+"Syntax: “name min_light[0-14] max_light[0-14] max_mobs_in_area[0 to disable] "
+"distance[1-20] y_offset[-10 to 10]”"
+msgstr "Syntaxe : “nom min_lumière[0-14] max_lumière[0-14] max_mobs_dans_zone[0 pour désactiver] distance[1-20] décalage_y[-10 à 10]“"

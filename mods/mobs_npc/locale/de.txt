@@ -1,0 +1,23 @@
+# German Translation for mobs_npc mod
+# Deutsche Übersetzung der mobs_npc Mod
+# last update: 2016/June/10
+# Author: Xanthin
+
+#init.lua
+[MOD] Mobs Redo 'NPCs' loaded = [MOD] Mobs Redo 'NPCs' geladen
+
+#npc.lua
+NPC dropped you an item for gold! = NSC ließ dir für Gold einen Gegenstand fallen!
+NPC stands still. = NSC bleibt stehen.
+NPC will follow you. = NSC wird dir folgen.
+Npc = Nsc
+
+#trader.lua
+Trader @1 = Händler @1
+[NPC] <Trader @1 > Hello, @2, have a look at my wares. = [NSC] <Händler @1 > Hallo, @2, wirf einen Blick auf meine Waren.
+Trader @1's stock: = Händler @1s Warenlager
+Selection = Auswahl
+Price = Preis
+Payment = Bezahlung
+Bought items = Ware
+Trader = Händler

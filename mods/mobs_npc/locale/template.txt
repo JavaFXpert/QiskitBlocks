@@ -1,0 +1,21 @@
+# Template for translations of mobs_npc mod
+# last update: 2016/June/10
+
+#init.lua
+[MOD] Mobs Redo 'NPCs' loaded = 
+
+#npc.lua
+NPC dropped you an item for gold! = 
+NPC stands still. = 
+NPC will follow you. = 
+Npc = 
+
+#trader.lua
+Trader @1 = 
+[NPC] <Trader @1 > Hello, @2, have a look at my wares. = 
+Trader @1's stock: = 
+Selection = 
+Price = 
+Payment = 
+Bought items = 
+Trader = 

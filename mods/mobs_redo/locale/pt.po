@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mobs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-02 16:48+0200\n"
+"PO-Revision-Date: 2017-07-02 14:55+0200\n"
+"Last-Translator: Wuzzy <almikes@aol.com>\n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: api.lua
+msgid "** Peaceful Mode Active - No Monsters Will Spawn"
+msgstr ""
+
+#: api.lua
+msgid "Mob has been protected!"
+msgstr ""
+
+#: api.lua
+msgid "@1 (Tamed)"
+msgstr ""
+
+#: api.lua
+msgid "Not tamed!"
+msgstr "Indomesticado!"
+
+#: api.lua
+msgid "@1 is owner!"
+msgstr "Dono @1!"
+
+#: api.lua
+msgid "Missed!"
+msgstr "Faltou!"
+
+#: api.lua
+msgid "Already protected!"
+msgstr ""
+
+#: api.lua
+msgid "@1 at full health (@2)"
+msgstr "@1 em plena saude (@2)"
+
+#: api.lua
+msgid "@1 has been tamed!"
+msgstr "@1 foi domesticado!"
+
+#: api.lua
+msgid "Enter name:"
+msgstr "Insira um nome:"
+
+#: api.lua
+msgid "Rename"
+msgstr "Renomear"
+
+#: crafts.lua
+msgid "Name Tag"
+msgstr "Etiqueta"
+
+#: crafts.lua
+msgid "Leather"
+msgstr "Couro"
+
+#: crafts.lua
+msgid "Raw Meat"
+msgstr "Carne crua"
+
+#: crafts.lua
+msgid "Meat"
+msgstr "Carne"
+
+#: crafts.lua
+#, fuzzy
+msgid "Lasso (right-click animal to put in inventory)"
+msgstr "Laço (clique-direito no animal para por no inventario)"
+
+#: crafts.lua
+msgid "Net (right-click animal to put in inventory)"
+msgstr "Net (clique-direito no animal para por no inventario)"
+
+#: crafts.lua
+msgid "Steel Shears (right-click to shear)"
+msgstr "Tesoura de Aço (clique-direito para tosquiar)"
+
+#: crafts.lua
+msgid "Mob Protection Rune"
+msgstr ""
+
+#: crafts.lua
+msgid "Saddle"
+msgstr ""
+
+#: crafts.lua
+msgid "Mob Fence"
+msgstr ""
+
+#: spawner.lua
+msgid "Mob Spawner"
+msgstr "Spawnador de Mob"
+
+#: spawner.lua
+msgid "Mob MinLight MaxLight Amount PlayerDist"
+msgstr "Mob LuzMinima LuzMaxima Valor DistJogador"
+
+#: spawner.lua
+msgid "Spawner Not Active (enter settings)"
+msgstr "Spawnador Inativo (configurar)"
+
+#: spawner.lua
+msgid "Spawner Active (@1)"
+msgstr "Spawnador Ativo (@1)"
+
+#: spawner.lua
+msgid "Mob Spawner settings failed!"
+msgstr "Configuraçao de Spawnador do Mob falhou!"
+
+#: spawner.lua
+#, fuzzy
+msgid ""
+"Syntax: “name min_light[0-14] max_light[0-14] max_mobs_in_area[0 to disable] "
+"distance[1-20] y_offset[-10 to 10]”"
+msgstr ""
+"> nome luz_min[0-14] luz_max[0-14] max_mobs_na_area[0 para desabilitar] "
+"distancia[1-20] y_offset[-10 a 10]"

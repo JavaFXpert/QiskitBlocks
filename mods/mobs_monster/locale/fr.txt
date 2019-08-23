@@ -1,0 +1,34 @@
+# last update: 2016/June/10
+
+#dirtmonster.lua
+Dirt Monster =  Monstre de terre
+
+#dungeonmaster.lua
+Dungeon Master = Maître des donjons
+
+#init.lua
+[MOD] Mobs Redo 'Monsters' loaded = [MOD] Mobs Redo 'Monstres' chargé
+
+#lava_flan.lua
+Lava Flan = Flan de lave
+Lava orb = Orbe de lave
+Lava Pickaxe = Pioche de lave
+
+#mese_monster.lua
+Mese Monster = Monstre de Mese
+
+#oerkki.lua
+Oerkki = Oerkki
+
+#sandmonster.lua
+Sand Monster = Monstre de sable
+
+#spider.lua
+Spider = Araignée
+Cobweb = Toile d'arraignée
+
+#stonemonster.lua
+Stone Monster = Monstre de pierre
+
+#treemonster.lua
+Tree Monster = Monstre de bois
