@@ -7,7 +7,7 @@ Please choose one of the *Installing and running* options below and follow the i
 
 ## Installing and running (the quick and easy way using the Minetest Content Database)
 
-To get started with Minetest and explore the Qiskit Blocks, follow these steps to download and install Minetest on your computer:
+To get started with QiskitBlocks, follow these steps to download and install Minetest on your computer:
 
 - **For Windows users:** Download Minetest 5.2 by clicking on the following link. This will initiate the download of the zip file directly to your computer.
   - [Download Minetest 5.2 Windows](https://github.com/JavaFXpert/QiskitBlocks/raw/master/minetest/minetest-5.2.0-win64.zip)
