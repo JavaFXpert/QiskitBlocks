@@ -6,8 +6,17 @@ Teaches quantum computing and Qiskit in a Minetest block world.
 Please choose one of the *Installing and running* options below and follow the instructions.
 
 ## Installing and running (the quick and easy way using the Minetest Content Database)
-- Download, install and run [Minetest 5.2 Windows](https://github.com/JavaFXpert/QiskitBlocks/blob/master/minetest/minetest-5.2.0-win64.zip) or [Minetest 5.2 Mac](https://github.com/JavaFXpert/QiskitBlocks/blob/master/minetest/minetest-5.2.0-dev-10.11.6-osx.zip). Note: This site has a preferred alternative to MacOS Homebrew installation: https://www.techspot.com/downloads/5585-minetest.html
 
+To get started with Minetest and explore the Qiskit Blocks, follow these steps to download and install Minetest on your computer:
+
+- **For Windows users:** Download Minetest 5.2 by clicking on the following link. This will initiate the download of the zip file directly to your computer.
+  - [Download Minetest 5.2 Windows](https://github.com/JavaFXpert/QiskitBlocks/blob/master/minetest/minetest-5.2.0-win64.zip)
+
+- **For Mac users:** Download Minetest 5.2 for Mac through the link below. Your download should begin immediately upon clicking.
+  - [Download Minetest 5.2 Mac](https://github.com/JavaFXpert/QiskitBlocks/blob/master/minetest/minetest-5.2.0-dev-10.11.6-osx.zip)
+
+- After downloading the zip file, extract its contents to a preferred location on your computer. Then, run the Minetest executable.
+  
 - Click the `Content` tab shown here, then click the `Browse online content` button. 
 ![Minetest Content Tab](https://github.com/JavaFXpert/QiskitBlocks/raw/master/minetest_content_tab.png)
 
