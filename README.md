@@ -10,10 +10,10 @@ Please choose one of the *Installing and running* options below and follow the i
 To get started with Minetest and explore the Qiskit Blocks, follow these steps to download and install Minetest on your computer:
 
 - **For Windows users:** Download Minetest 5.2 by clicking on the following link. This will initiate the download of the zip file directly to your computer.
-  - [Download Minetest 5.2 Windows](https://raw.githubusercontent.com/JavaFXpert/QiskitBlocks/blob/master/minetest/minetest-5.2.0-win64.zip)
+  - [Download Minetest 5.2 Windows](https://github.com/JavaFXpert/QiskitBlocks/raw/master/minetest/minetest-5.2.0-win64.zip)
 
 - **For Mac users:** Download Minetest 5.2 for Mac through the link below. Your download should begin immediately upon clicking.
-  - [Download Minetest 5.2 Mac](https://raw.githubusercontent.com/JavaFXpert/QiskitBlocks/blob/master/minetest/minetest-5.2.0-dev-10.11.6-osx.zip)
+  - [Download Minetest 5.2 Mac](https://github.com/JavaFXpert/QiskitBlocks/raw/master/minetest/minetest-5.2.0-dev-10.11.6-osx.zip)
 
 - After downloading the zip file, extract its contents to a preferred location on your computer. Then, run the Minetest executable.
   
